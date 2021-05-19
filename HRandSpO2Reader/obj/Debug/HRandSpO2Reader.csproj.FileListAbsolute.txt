@@ -1,0 +1,29 @@
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\HRandSpO2Reader.exe.config
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\HRandSpO2Reader.exe
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\HRandSpO2Reader.pdb
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.csprojAssemblyReference.cache
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.Form1.resources
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.Properties.Resources.resources
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.csproj.GenerateResource.cache
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.csproj.CoreCompileInputs.cache
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.exe
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.pdb
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.result.resources
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.Login.resources
+C:\Users\ayber\source\repos\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.About.resources
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\HRandSpO2Reader.exe.config
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\HRandSpO2Reader.exe
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\HRandSpO2Reader.pdb
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.csprojAssemblyReference.cache
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.About.resources
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.Form1.resources
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.Login.resources
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.Properties.Resources.resources
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.Result.resources
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.csproj.GenerateResource.cache
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.csproj.CoreCompileInputs.cache
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.csproj.CopyComplete
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.exe
+C:\Users\ayber\Desktop\Multidisciplinary Engineering Project\HRandSpO2Reader\HRandSpO2Reader\obj\Debug\HRandSpO2Reader.pdb
